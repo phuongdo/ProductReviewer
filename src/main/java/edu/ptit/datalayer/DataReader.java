@@ -1,4 +1,4 @@
-package edu.pit.datalayer;
+package edu.ptit.datalayer;
 
 import java.io.BufferedReader;
 import java.io.File;

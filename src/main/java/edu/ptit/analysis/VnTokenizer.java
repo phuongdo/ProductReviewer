@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-import edu.pit.datalayer.DataReader;
+import edu.ptit.datalayer.DataReader;
 
 public class VnTokenizer {
 	private Set<String> stopwords = new HashSet<String>();
